@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm G Avineshwar</h1>
 <h3 align="center">A passionate Android developer from India</h3>
-![image](https://github.com/CodeAvi007/CodeAvi007/assets/124431955/3c909b2e-2c6c-4508-ba20-0ad2b4c53ecf)
+<img src ="https://www.freecodecamp.org/news/content/images/2019/10/androiddevelopment.png"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codeavi007&label=Profile%20views&color=0e75b6&style=flat" alt="codeavi007" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codeavi007" alt="codeavi007" /></a> </p>
